@@ -50,7 +50,7 @@ cold::before{content:"\000394K<0";}
 hot::before{content:"\000394K>0";}
 by[d]::before{content:"b";}
 decomp::before{content:"decomp ";}
-cri::before{content:"C!";}
+cri::before{content:"CR!";}
 pl::after{content:"catalyst";}
 g::after{content:"grind";}
 h::after{content:"heat mix";}
